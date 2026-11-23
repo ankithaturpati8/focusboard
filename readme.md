@@ -22,6 +22,5 @@ npm run dev
 - **Derived Values:** Overview statistics and filtered task lists use `useMemo` so counts update immediately without manual synchronization.
 
 ## Deployment Links
-- **Hosted Application URL:** []
-- **GitHub Repository URL:** []
--
+- **Hosted Application URL:** [https://focusboard-azure-mu.vercel.app/]
+- **GitHub Repository URL:** [https://github.com/ankithaturpati8/focusboard]
